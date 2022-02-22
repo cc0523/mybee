@@ -1,0 +1,18 @@
+body
+{
+	text-align:center;
+}
+.btn
+{
+	border: solid 2px black;
+	width: 500px;
+	display: inline;
+	font-size; 30px;
+	color: #f77d11;
+	background-color: #ffe99f;
+}
+hl
+{
+	fornt-size:90px;
+	font-family: 標楷體;
+}
